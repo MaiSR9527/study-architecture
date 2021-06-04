@@ -6,5 +6,4 @@ package com.msr.better.postprocesser;
  * @since 2021-06-03 23:50
  **/
 public class MainApp {
-
 }
